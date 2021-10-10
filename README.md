@@ -24,3 +24,10 @@ Some of the code snippets borrowed from Prof Iadh Ounis
 3. Evaluating Interpolated recall precision graphs
 4. Word embeddings - Gensim
 5. Word2Vec based Query Expansion
+
+**PyTerrier_3 :**
+1. Baseline setup
+2. URL slashed features
+3. URL Type feature
+4. Proximity search feature
+5. 5-feature Learning to Rank Method 
