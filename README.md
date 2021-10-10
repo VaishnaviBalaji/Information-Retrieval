@@ -1,6 +1,10 @@
 # Information-Retrieval
 Information Retrieval using PyTerrier
 
+These are done as a part of course
+
+Some of the code snippets borrowed from Prof Iadh Ounis 
+
 **PyTerrier_1 :**
 
 1. Installation & configuration
